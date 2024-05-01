@@ -70,13 +70,13 @@ __Bachelor's Degree in Information Systems and Technologies__, Herzen State Peda
 
 ### Skills
 
-- JavaScript / TypeScript
-- React
-- Effector
-- GraphQL
-- Node.js
-- Docker
-- PostgreSQL
+**Programming Languages:** JavaScript / TypeScript, HTML / CSS, Python, PHP
+
+**Tools and Frameworks:** React, Next.js, Effector, GraphQL, Redux, Node.js, Docker, PostgreSQL
+
+**Key Skills:** 
+- Deep understanding and application of modern development principles in the React ecosystem.
+- Ability to independently analyze requirements and achieve project goals.
 
 ### Languages
 
