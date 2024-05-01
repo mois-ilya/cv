@@ -1,91 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ilia Moiseev's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ilia Moiseev
+Senior Frontend Developer with expertise in React and TypeScript.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:job.offers@mois.pro">job.offers@mois.pro</a>
+| <a href="https://github.com/mois-ilya">GitHub</a>
+| <a href="https://t.me/mois_ilya">Telegram</a>
+| <a href="https://www.linkedin.com/in/moisilya">LinkedIn</a>
 </div>
 
 
-## Currently
+## Frontend Developer
+Tbilisi, Georgia
 
-Standing on the shoulders of giants
+### Summary
 
-### Specialized in
+Experienced Frontend Developer with a strong background in JavaScript technologies including React and TypeScript, and extensive experience in building modern web applications. Proficient in leading project modules, setting up CI/CD pipelines, and integrating frontend systems with diverse backends. Actively involved in all phases of the development lifecycle and passionate about delivering high-quality, user-centric solutions.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Experience
 
+`Jul 2023 - Present`
+__Frontend Developer, Quintegro__
 
-### Research interests
+- Developed a reservation platform connecting hosts and consumers.
+- Lead developer for the booking changes agreement module.
+- Developed and implemented API contracts for reliable frontend to backend communication.
+- Set up build processes including TypeScript type generation and GitHub Actions.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Apr 2023 - Jul 2023`
+__Fullstack Developer, Minacu__
 
+- Implemented streaming STT via gRPC using cloud services.
+- Integrated OpenAI API for textual data analysis.
+- Managed the integration of the Telegram API via tdlib.
 
-## Education
+`Jul 2022 - Mar 2023`
+__Technical Team Lead, Upper Echelon Products__
 
-`1654-1660`
-__The King's School, Grantham.__
+- Managed data collection and analysis from Amazon Seller Central.
+- Led the migration of infrastructure to AWS, including CI/CD integration.
+- Managed a remote team of developers.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Apr 2021 - Jul 2022`
+__Frontend Developer, Upper Echelon Products__
 
-- Sizar
+- Developed internal interface for an e-commerce platform.
+- Implemented standards and automation for code and application architecture.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Jul 2020 - Nov 2020`
+__Software Engineer, Apptech__, St Petersburg City, Russia
 
-- Fellow
+- Developed key features for a messenger in React Native, including push notifications and real-time functions.
 
+`Mar 2018 - Feb 2020`
+__Software Engineer, GET Information Technology GmbH__, St Petersburg City, Russia
 
+- Supported and developed functionality for corporate applications using vanilla and legacy JS technologies in frontend development.
 
-## Awards
+### Education
 
-`2012`
-President, *Royal Society*, London, UK
+`2019 - 2021`
+__Master's Degree in High Technology and Economics of Innovation__, ITMO University
 
-Associate, *French Academy of Science*, Paris, France
+`2015 - 2019`
+__Bachelor's Degree in Information Systems and Technologies__, Herzen State Pedagogical University
 
+### Skills
 
+- JavaScript / TypeScript
+- React
+- Effector
+- GraphQL
+- Node.js
+- Docker
+- PostgreSQL
 
-## Publications
+### Languages
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Russian (Native)
+- English (Professional Working)
 
-### Journals
+### Volunteering
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Field operative, various non-profit organizations.
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+---
